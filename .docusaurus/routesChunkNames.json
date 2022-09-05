@@ -1,110 +1,67 @@
 {
-  "/__docusaurus/debug-ee5": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    }
-  },
-  "/__docusaurus/debug/config-387": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    }
-  },
-  "/__docusaurus/debug/content-1e6": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-53c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    }
-  },
-  "/__docusaurus/debug/metadata-7fb": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    }
-  },
-  "/__docusaurus/debug/registry-bb3": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    }
-  },
-  "/__docusaurus/debug/routes-7cf": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-43-0cd"
-    }
-  },
   "/markdown-page-4d0": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagec-94-760"
+      "plugin": "c947027e"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/docs-8f1": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docs-9-c-7-491"
+      "plugin": "9c7b2541"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "935f2afb"
   },
   "/docs/authorization-difference-570": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-authorization-differencedeb-4ea"
+    "__comp": "17896441",
+    "content": "deb1fc9d"
   },
   "/docs/beginner/congratulations-01e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-beginner-congratulations-0-bc-dd4"
+    "__comp": "17896441",
+    "content": "0bc756bf"
   },
   "/docs/beginner/enviroment-setup-811": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-beginner-enviroment-setupce-3-285"
+    "__comp": "17896441",
+    "content": "ce3516aa"
   },
   "/docs/beginner/license-metadata-0ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-beginner-license-metadata-430-6a9"
+    "__comp": "17896441",
+    "content": "43018d07"
   },
   "/docs/beginner/license-object-7de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-beginner-license-object-84-e-6cd"
+    "__comp": "17896441",
+    "content": "84ed0fb5"
   },
   "/docs/beginner/validating-the-license-key-f2c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-beginner-validating-the-license-keyec-6-10f"
+    "__comp": "17896441",
+    "content": "ec63e8c1"
   },
   "/docs/category/beginners-guide-1ed": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-beginners-guidedbd-c53"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "dbd369d9"
   },
   "/docs/category/tutorial---extras-f09": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "c844b82d"
   },
   "/docs/intro-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/-0c0": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-pagec-94-760"
+      "plugin": "c947027e"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "5e9f5e1a"
   }
 }
