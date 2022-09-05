@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Whop Docs',
   tagline: 'Whop is cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://backtd.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

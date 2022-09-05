@@ -6,7 +6,7 @@
 export default {
   "title": "Whop Docs",
   "tagline": "Whop is cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://backtd.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

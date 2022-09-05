@@ -8,7 +8,7 @@ You have just learned the **basics of Whop API**.
 
 The Whop API has **much more to offer**!
 
-Have **more time**? Take a look at our **[Advanced Guide](../tutorial-extras/manage-docs-versions.md)**.
+Have **more time**? Take a look at our **[Advanced Guide](../advance/setup.md)**.
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://discord.gg/J5HS6MVQas)
 
