@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/create-a-blog-post",
+  "id": "beginner/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/beginner/create-a-blog-post.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/create-a-blog-post",
+  "permalink": "/docs/beginner/create-a-blog-post",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "License Object",
+    "permalink": "/docs/beginner/license-object"
+  },
+  "next": {
+    "title": "Validating the License Key",
+    "permalink": "/docs/beginner/validating-the-license-key"
+  }
+}

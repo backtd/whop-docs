@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/enviroment-setup",
+  "id": "beginner/enviroment-setup",
+  "title": "Enviroment Setup",
+  "description": "First we will need to create our main JS file, we will call it `index.js`.",
+  "source": "@site/docs/beginner/enviroment-setup.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/enviroment-setup",
+  "permalink": "/docs/beginner/enviroment-setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beginners Guide",
+    "permalink": "/docs/category/beginners-guide"
+  },
+  "next": {
+    "title": "License Object",
+    "permalink": "/docs/beginner/license-object"
+  }
+}

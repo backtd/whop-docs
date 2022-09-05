@@ -1,0 +1,19 @@
+{
+  "unversionedId": "authorization-difference",
+  "id": "authorization-difference",
+  "title": "Authorization Difference",
+  "description": "What is the difference between the bearer token and the client ID?",
+  "source": "@site/docs/authorization-difference.md",
+  "sourceDirName": ".",
+  "slug": "/authorization-difference",
+  "permalink": "/docs/authorization-difference",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

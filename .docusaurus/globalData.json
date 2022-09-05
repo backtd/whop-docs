@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "authorization-difference",
+              "path": "/docs/authorization-difference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beginner/congratulations",
+              "path": "/docs/beginner/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beginner/enviroment-setup",
+              "path": "/docs/beginner/enviroment-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beginner/license-metadata",
+              "path": "/docs/beginner/license-metadata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beginner/license-object",
+              "path": "/docs/beginner/license-object",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beginner/validating-the-license-key",
+              "path": "/docs/beginner/validating-the-license-key",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/beginners-guide",
+              "path": "/docs/category/beginners-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

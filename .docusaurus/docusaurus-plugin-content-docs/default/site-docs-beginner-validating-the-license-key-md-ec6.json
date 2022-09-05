@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/validating-the-license-key",
+  "id": "beginner/validating-the-license-key",
+  "title": "Validating the License Key",
+  "description": "There are two ways to validate the license key, the first one is to use the `validate method from the API and the second one is to validate from the license object itself using the valid` property.",
+  "source": "@site/docs/beginner/validating-the-license-key.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/validating-the-license-key",
+  "permalink": "/docs/beginner/validating-the-license-key",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "License Object",
+    "permalink": "/docs/beginner/license-object"
+  },
+  "next": {
+    "title": "License MetaData",
+    "permalink": "/docs/beginner/license-metadata"
+  }
+}

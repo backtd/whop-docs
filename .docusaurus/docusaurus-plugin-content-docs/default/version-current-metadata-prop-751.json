@@ -1,0 +1,142 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Beginners Guide",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Enviroment Setup",
+            "href": "/docs/beginner/enviroment-setup",
+            "docId": "beginner/enviroment-setup"
+          },
+          {
+            "type": "link",
+            "label": "License Object",
+            "href": "/docs/beginner/license-object",
+            "docId": "beginner/license-object"
+          },
+          {
+            "type": "link",
+            "label": "Validating the License Key",
+            "href": "/docs/beginner/validating-the-license-key",
+            "docId": "beginner/validating-the-license-key"
+          },
+          {
+            "type": "link",
+            "label": "License MetaData",
+            "href": "/docs/beginner/license-metadata",
+            "docId": "beginner/license-metadata"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/beginner/congratulations",
+            "docId": "beginner/congratulations"
+          }
+        ],
+        "href": "/docs/category/beginners-guide"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "Authorization Difference",
+        "href": "/docs/authorization-difference",
+        "docId": "authorization-difference"
+      }
+    ]
+  },
+  "docs": {
+    "authorization-difference": {
+      "id": "authorization-difference",
+      "title": "Authorization Difference",
+      "description": "What is the difference between the bearer token and the client ID?",
+      "sidebar": "tutorialSidebar"
+    },
+    "beginner/congratulations": {
+      "id": "beginner/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Whop API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "beginner/enviroment-setup": {
+      "id": "beginner/enviroment-setup",
+      "title": "Enviroment Setup",
+      "description": "First we will need to create our main JS file, we will call it `index.js`.",
+      "sidebar": "tutorialSidebar"
+    },
+    "beginner/license-metadata": {
+      "id": "beginner/license-metadata",
+      "title": "License MetaData",
+      "description": "The license metadata is a JSON object that can be used to store any information you want, this can be used to store the HWID of the device that the license is being used on, the IP address, the location, etc.",
+      "sidebar": "tutorialSidebar"
+    },
+    "beginner/license-object": {
+      "id": "beginner/license-object",
+      "title": "License Object",
+      "description": "Now that we have setup our enviroment to work with the Whop API, let's get started by understanding the licesne object that is returned.",
+      "sidebar": "tutorialSidebar"
+    },
+    "beginner/validating-the-license-key": {
+      "id": "beginner/validating-the-license-key",
+      "title": "Validating the License Key",
+      "description": "There are two ways to validate the license key, the first one is to use the `validate method from the API and the second one is to validate from the license object itself using the valid` property.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Intro",
+      "description": "Let's discover Whop.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/license-object",
+  "id": "beginner/license-object",
+  "title": "License Object",
+  "description": "Now that we have setup our enviroment to work with the Whop API, let's get started by understanding the licesne object that is returned.",
+  "source": "@site/docs/beginner/license-object.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/license-object",
+  "permalink": "/docs/beginner/license-object",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enviroment Setup",
+    "permalink": "/docs/beginner/enviroment-setup"
+  },
+  "next": {
+    "title": "Validating the License Key",
+    "permalink": "/docs/beginner/validating-the-license-key"
+  }
+}

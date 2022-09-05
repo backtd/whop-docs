@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/create-a-document",
+  "id": "beginner/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/beginner/create-a-document.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/create-a-document",
+  "permalink": "/docs/beginner/create-a-document",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enviroment Setup",
+    "permalink": "/docs/beginner/enviroment-setup"
+  },
+  "next": {
+    "title": "License Object",
+    "permalink": "/docs/beginner/license-object"
+  }
+}

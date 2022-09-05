@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/create-a-page",
+  "id": "beginner/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/beginner/create-a-page.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/create-a-page",
+  "permalink": "/docs/beginner/create-a-page",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beginners Guide",
+    "permalink": "/docs/category/beginners-guide"
+  },
+  "next": {
+    "title": "Enviroment Setup",
+    "permalink": "/docs/beginner/enviroment-setup"
+  }
+}

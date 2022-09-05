@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/license-metadata",
+  "id": "beginner/license-metadata",
+  "title": "License MetaData",
+  "description": "The license metadata is a JSON object that can be used to store any information you want, this can be used to store the HWID of the device that the license is being used on, the IP address, the location, etc.",
+  "source": "@site/docs/beginner/license-metadata.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/license-metadata",
+  "permalink": "/docs/beginner/license-metadata",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validating the License Key",
+    "permalink": "/docs/beginner/validating-the-license-key"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/beginner/congratulations"
+  }
+}

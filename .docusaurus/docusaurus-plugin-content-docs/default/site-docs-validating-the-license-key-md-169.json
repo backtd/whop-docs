@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validating-the-license-key",
+  "id": "validating-the-license-key",
+  "title": "Validating the License Key",
+  "description": "There are two ways to validate the license key, the first one is to use the `validate method from the API and the second one is to validate from the license object itself using the valid` property.",
+  "source": "@site/docs/validating-the-license-key.md",
+  "sourceDirName": ".",
+  "slug": "/validating-the-license-key",
+  "permalink": "/docs/validating-the-license-key",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Authorization Difference",
+    "permalink": "/docs/authorization-difference"
+  }
+}

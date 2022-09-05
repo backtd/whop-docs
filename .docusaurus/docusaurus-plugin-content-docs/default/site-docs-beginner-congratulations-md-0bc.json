@@ -1,0 +1,26 @@
+{
+  "unversionedId": "beginner/congratulations",
+  "id": "beginner/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Whop API.",
+  "source": "@site/docs/beginner/congratulations.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/congratulations",
+  "permalink": "/docs/beginner/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "License MetaData",
+    "permalink": "/docs/beginner/license-metadata"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}
