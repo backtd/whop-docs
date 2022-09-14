@@ -49,12 +49,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e6d": {
+  "/docs-344": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-9-c-7-491"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/advanced/admin-51b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-advanced-adminb-78-7e2"
   },
   "/docs/advanced/congratulations-bcd": {
     "__comp": "__comp---theme-doc-item-178-a40",

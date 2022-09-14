@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "advanced/admin",
+              "path": "/docs/advanced/admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "advanced/congratulations",
               "path": "/docs/advanced/congratulations",
               "sidebar": "tutorialSidebar"

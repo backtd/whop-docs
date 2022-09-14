@@ -44,8 +44,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e6d'),
+    component: ComponentCreator('/docs', '344'),
     routes: [
+      {
+        path: '/docs/advanced/admin',
+        component: ComponentCreator('/docs/advanced/admin', '51b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/docs/advanced/congratulations',
         component: ComponentCreator('/docs/advanced/congratulations', 'bcd'),

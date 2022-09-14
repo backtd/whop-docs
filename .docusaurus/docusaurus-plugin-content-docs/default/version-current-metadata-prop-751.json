@@ -110,6 +110,12 @@
           },
           {
             "type": "link",
+            "label": "Administrator rights",
+            "href": "/docs/advanced/admin",
+            "docId": "advanced/admin"
+          },
+          {
+            "type": "link",
             "label": "Congratulations!",
             "href": "/docs/advanced/congratulations",
             "docId": "advanced/congratulations"
@@ -126,6 +132,12 @@
     ]
   },
   "docs": {
+    "advanced/admin": {
+      "id": "advanced/admin",
+      "title": "Administrator rights",
+      "description": "All is left to do is to give yourself administrator rights, so you can access the admin panel.",
+      "sidebar": "tutorialSidebar"
+    },
     "advanced/congratulations": {
       "id": "advanced/congratulations",
       "title": "Congratulations!",

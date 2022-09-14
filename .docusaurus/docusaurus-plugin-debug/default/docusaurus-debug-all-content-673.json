@@ -18,14 +18,14 @@
           "contentPathLocalized": "C:\\Users\\dev\\Desktop\\whop-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "advanced/congratulations",
-              "id": "advanced/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just completed the setup of your panel! Now you can monitering licenses, plans, passes, and creating purchase links.",
-              "source": "@site/docs/advanced/congratulations.md",
+              "unversionedId": "advanced/admin",
+              "id": "advanced/admin",
+              "title": "Administrator rights",
+              "description": "All is left to do is to give yourself administrator rights, so you can access the admin panel.",
+              "source": "@site/docs/advanced/admin.md",
               "sourceDirName": "advanced",
-              "slug": "/advanced/congratulations",
-              "permalink": "/docs/advanced/congratulations",
+              "slug": "/advanced/admin",
+              "permalink": "/docs/advanced/admin",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -37,6 +37,32 @@
               "previous": {
                 "title": "Views Folder",
                 "permalink": "/docs/advanced/views"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/advanced/congratulations"
+              }
+            },
+            {
+              "unversionedId": "advanced/congratulations",
+              "id": "advanced/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just completed the setup of your panel! Now you can monitering licenses, plans, passes, and creating purchase links.",
+              "source": "@site/docs/advanced/congratulations.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/congratulations",
+              "permalink": "/docs/advanced/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Administrator rights",
+                "permalink": "/docs/advanced/admin"
               },
               "next": {
                 "title": "Authorization Difference",
@@ -221,8 +247,8 @@
                 "permalink": "/docs/advanced/routes"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/advanced/congratulations"
+                "title": "Administrator rights",
+                "permalink": "/docs/advanced/admin"
               }
             },
             {
@@ -501,6 +527,10 @@
                   {
                     "type": "doc",
                     "id": "advanced/views"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/admin"
                   },
                   {
                     "type": "doc",
