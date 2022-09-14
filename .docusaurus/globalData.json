@@ -11,6 +11,51 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "advanced/congratulations",
+              "path": "/docs/advanced/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/entry-point",
+              "path": "/docs/advanced/entry-point",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/folder-structure",
+              "path": "/docs/advanced/folder-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/modal",
+              "path": "/docs/advanced/modal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/passport",
+              "path": "/docs/advanced/passport",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/routes",
+              "path": "/docs/advanced/routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/setup",
+              "path": "/docs/advanced/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/views",
+              "path": "/docs/advanced/views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/whop",
+              "path": "/docs/advanced/whop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "authorization-difference",
               "path": "/docs/authorization-difference",
               "sidebar": "tutorialSidebar"
@@ -46,23 +91,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/beginners-guide",
               "path": "/docs/category/beginners-guide",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/advanced-guide",
+              "path": "/docs/category/advanced-guide",
               "sidebar": "tutorialSidebar"
             }
           ],

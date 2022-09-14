@@ -18,6 +18,240 @@
           "contentPathLocalized": "C:\\Users\\dev\\Desktop\\whop-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
+              "unversionedId": "advanced/congratulations",
+              "id": "advanced/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just completed the setup of your panel! Now you can monitering licenses, plans, passes, and creating purchase links.",
+              "source": "@site/docs/advanced/congratulations.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/congratulations",
+              "permalink": "/docs/advanced/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Views Folder",
+                "permalink": "/docs/advanced/views"
+              },
+              "next": {
+                "title": "Authorization Difference",
+                "permalink": "/docs/authorization-difference"
+              }
+            },
+            {
+              "unversionedId": "advanced/entry-point",
+              "id": "advanced/entry-point",
+              "title": "Entry Point",
+              "description": "Let's setup our entry point for our project.",
+              "source": "@site/docs/advanced/entry-point.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/entry-point",
+              "permalink": "/docs/advanced/entry-point",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Folder Structure",
+                "permalink": "/docs/advanced/folder-structure"
+              },
+              "next": {
+                "title": "Whop Functions",
+                "permalink": "/docs/advanced/whop"
+              }
+            },
+            {
+              "unversionedId": "advanced/folder-structure",
+              "id": "advanced/folder-structure",
+              "title": "Folder Structure",
+              "description": "After we have initialized our project and installed our modules, we will need to create our folder structure.",
+              "source": "@site/docs/advanced/folder-structure.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/folder-structure",
+              "permalink": "/docs/advanced/folder-structure",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Enviroment Setup",
+                "permalink": "/docs/advanced/setup"
+              },
+              "next": {
+                "title": "Entry Point",
+                "permalink": "/docs/advanced/entry-point"
+              }
+            },
+            {
+              "unversionedId": "advanced/modal",
+              "id": "advanced/modal",
+              "title": "User Schema",
+              "description": "Now that we have setup our MongoDB database, let's create our User Schema.",
+              "source": "@site/docs/advanced/modal.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/modal",
+              "permalink": "/docs/advanced/modal",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Whop Functions",
+                "permalink": "/docs/advanced/whop"
+              },
+              "next": {
+                "title": "Passport Setup",
+                "permalink": "/docs/advanced/passport"
+              }
+            },
+            {
+              "unversionedId": "advanced/passport",
+              "id": "advanced/passport",
+              "title": "Passport Setup",
+              "description": "Now that we have setup our schemas and our sessions we will go into the core of authentication, `PassportJs`.",
+              "source": "@site/docs/advanced/passport.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/passport",
+              "permalink": "/docs/advanced/passport",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User Schema",
+                "permalink": "/docs/advanced/modal"
+              },
+              "next": {
+                "title": "Express Routes",
+                "permalink": "/docs/advanced/routes"
+              }
+            },
+            {
+              "unversionedId": "advanced/routes",
+              "id": "advanced/routes",
+              "title": "Express Routes",
+              "description": "We have now setup our MongoDB database, our schemas and our sessions, now we will setup our routes.",
+              "source": "@site/docs/advanced/routes.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/routes",
+              "permalink": "/docs/advanced/routes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Passport Setup",
+                "permalink": "/docs/advanced/passport"
+              },
+              "next": {
+                "title": "Views Folder",
+                "permalink": "/docs/advanced/views"
+              }
+            },
+            {
+              "unversionedId": "advanced/setup",
+              "id": "advanced/setup",
+              "title": "Enviroment Setup",
+              "description": "Congratulations! You have successfully understood how the Whop API works and how to do basic functions, let's start now with our Advanced Guide.",
+              "source": "@site/docs/advanced/setup.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/setup",
+              "permalink": "/docs/advanced/setup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Guide",
+                "permalink": "/docs/category/advanced-guide"
+              },
+              "next": {
+                "title": "Folder Structure",
+                "permalink": "/docs/advanced/folder-structure"
+              }
+            },
+            {
+              "unversionedId": "advanced/views",
+              "id": "advanced/views",
+              "title": "Views Folder",
+              "description": "Now all that is left to do is to create our `views folder, this is where we will store all of our ejs` files.",
+              "source": "@site/docs/advanced/views.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/views",
+              "permalink": "/docs/advanced/views",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Express Routes",
+                "permalink": "/docs/advanced/routes"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/advanced/congratulations"
+              }
+            },
+            {
+              "unversionedId": "advanced/whop",
+              "id": "advanced/whop",
+              "title": "Whop Functions",
+              "description": "Now that we have built our entry points lets work on creating our Whop Functions for the panel.",
+              "source": "@site/docs/advanced/whop.md",
+              "sourceDirName": "advanced",
+              "slug": "/advanced/whop",
+              "permalink": "/docs/advanced/whop",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Entry Point",
+                "permalink": "/docs/advanced/entry-point"
+              },
+              "next": {
+                "title": "User Schema",
+                "permalink": "/docs/advanced/modal"
+              }
+            },
+            {
               "unversionedId": "authorization-difference",
               "id": "authorization-difference",
               "title": "Authorization Difference",
@@ -32,8 +266,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "title": "Congratulations!",
+                "permalink": "/docs/advanced/congratulations"
               }
             },
             {
@@ -58,8 +292,8 @@
                 "permalink": "/docs/beginner/license-metadata"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "Advanced Guide",
+                "permalink": "/docs/category/advanced-guide"
               }
             },
             {
@@ -187,58 +421,6 @@
                 "title": "Beginners Guide",
                 "permalink": "/docs/category/beginners-guide"
               }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
-              },
-              "next": {
-                "title": "Authorization Difference",
-                "permalink": "/docs/authorization-difference"
-              }
             }
           ],
           "drafts": [],
@@ -284,23 +466,52 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Advanced Guide",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "advanced/setup"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "advanced/folder-structure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/entry-point"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/whop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/modal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/passport"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/routes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/views"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced/congratulations"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "description": "Advanced guide on how to build your own panel.",
+                  "slug": "/category/advanced-guide",
+                  "permalink": "/docs/category/advanced-guide"
                 }
               },
               {
